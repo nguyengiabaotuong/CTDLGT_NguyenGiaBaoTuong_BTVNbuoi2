@@ -7,7 +7,7 @@ namespace CTDLGT_NguyenGiaBaoTuong_BTVNbuoi2
 {
     internal class Bai7
     {
-        static void Main()
+        static void Main7()
         {
             using (StreamReader reader = new StreamReader(Console.OpenStandardInput()))
             {
